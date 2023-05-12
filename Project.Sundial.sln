@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule.Orchestrator", "Schedule.Orchestrator\Schedule.Orchestrator.csproj", "{BD59BDBD-FED1-4A48-A783-0E3E382162AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule.Job.Service", "Schedule.Job.Service\Schedule.Job.Service.csproj", "{D61AC745-0961-4F36-A6E0-12A41F76748E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD59BDBD-FED1-4A48-A783-0E3E382162AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD59BDBD-FED1-4A48-A783-0E3E382162AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD59BDBD-FED1-4A48-A783-0E3E382162AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD59BDBD-FED1-4A48-A783-0E3E382162AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61AC745-0961-4F36-A6E0-12A41F76748E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61AC745-0961-4F36-A6E0-12A41F76748E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61AC745-0961-4F36-A6E0-12A41F76748E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61AC745-0961-4F36-A6E0-12A41F76748E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E830C3-8E8B-4B8B-BA82-68B3972926F5}
+	EndGlobalSection
+EndGlobal

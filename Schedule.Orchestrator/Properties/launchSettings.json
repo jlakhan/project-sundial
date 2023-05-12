@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Schedule.Orchestrator": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}
